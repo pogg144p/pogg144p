@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pogg144p
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning JavaScript and its frameworks!
+- 🌱 I’m currently learning Python and its libraries
 - 💞️ I’m looking to collaborate on my codes, and also some assitance
 - 📫 How to reach me? All of the social media's mentioned in the profile are very active
 - 😄 Pronouns: he/him,
