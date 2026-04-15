@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my codes, and also some assitance
 - 📫 How to reach me? All of the social media's mentioned in the profile are very active
 - 😄 Pronouns: he/him,
-- ⚡ Fun fact: im chill like that
+- ⚡ Fun fact: im js chill like that
 
 <!---
 pogg144p/pogg144p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
