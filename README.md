@@ -1,10 +1,9 @@
-Hi, I’m Aakashdeep
+Hi, I’m Aakashdeep. Pronouns: he/him.
 I am a developer, who is trying to atleast get 1% better everyday, (I mean it btw).
 I’m currently learning Python libraries and AWS.
 I’m looking to collaborate on my codes, and also some assitance.
 
-How to reach me? All of the social media's mentioned in the profile are very active
-Pronouns: he/him,
+How to reach me? All of the social media's mentioned in the profile are very active.
 Fun fact: im js chill like that
 <!---
 pogg144p/pogg144p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
